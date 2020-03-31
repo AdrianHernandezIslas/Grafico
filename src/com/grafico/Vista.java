@@ -16,7 +16,7 @@ import javax.swing.JFrame;
  */
 public class Vista extends JFrame{
     
-    private Grafico grafico = new Grafico("Titulo OTRO",new String[]{"Chingadera","LimonPuto"});
+    private Grafico grafico = new Grafico("Titulo OTRO",new String[]{"Chingadera","Puto"});
 
     public Vista()  {
         super();
